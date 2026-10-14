@@ -1,0 +1,21 @@
+{
+  "name": "backend_cac",
+  "version": "1.0.0",
+  "description": "first app to deploy ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "first",
+    "project",
+    "backend"
+  ],
+  "author": "saptanshu gupta",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^18.0.7",
+    "express": "^5.2.1"
+  }
+}
